@@ -1,0 +1,27 @@
+[submodule "SharpCollection"]
+	path = SharpCollection
+	url = https://github.com/Flangvik/SharpCollection
+[submodule "ObfuscatedSharpCollection"]
+	path = ObfuscatedSharpCollection
+	url = https://github.com/Flangvik/ObfuscatedSharpCollection
+[submodule "C2-Tool-Collection"]
+	path = C2-Tool-Collection
+	url = https://github.com/outflanknl/C2-Tool-Collection
+[submodule "AssemblyHunter"]
+	path = AssemblyHunter
+	url = https://github.com/0xthirteen/AssemblyHunter
+[submodule "EnableWebDAVClient-BOF"]
+	path = EnableWebDAVClient-BOF
+	url = https://github.com/KingOfTheNOPs/EnableWebDAVClient-BOF
+[submodule "Aggressor-Aggregator"]
+	path = Aggressor-Aggregator
+	url = https://github.com/sudonoodle/Aggressor-Aggregator.git
+[submodule "AtlasReaper"]
+	path = AtlasReaper
+	url = https://github.com/werdhaihai/AtlasReaper.git
+[submodule "SharpAltShellCodeExec"]
+	path = SharpAltShellCodeExec
+	url = https://github.com/werdhaihai/SharpAltShellCodeExec
+[submodule "LdapSignCheck"]
+	path = LdapSignCheck
+	url = https://github.com/cube0x0/LdapSignCheck
