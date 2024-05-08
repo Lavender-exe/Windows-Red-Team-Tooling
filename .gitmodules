@@ -25,3 +25,6 @@
 [submodule "LdapSignCheck"]
 	path = LdapSignCheck
 	url = https://github.com/cube0x0/LdapSignCheck
+[submodule "CS-Remote-OPs-BOF"]
+	path = CS-Remote-OPs-BOF
+	url = https://github.com/trustedsec/CS-Remote-OPs-BOF
