@@ -1,4 +1,4 @@
-# Windows-Red-Team-Tooling
+# Windows Red Team Tooling
 Repos with useful tools for easy cloning
 
 ## Cloning
