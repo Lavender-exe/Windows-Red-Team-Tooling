@@ -28,3 +28,15 @@
 [submodule "CS-Remote-OPs-BOF"]
 	path = CS-Remote-OPs-BOF
 	url = https://github.com/trustedsec/CS-Remote-OPs-BOF
+[submodule "CrimsonEDR"]
+	path = CrimsonEDR
+	url = https://github.com/Helixo32/CrimsonEDR
+[submodule "BestEdrOfTheMarket"]
+	path = BestEdrOfTheMarket
+	url = https://github.com/Xacone/BestEdrOfTheMarket.git
+[submodule "BofCollection"]
+	path = BofCollection
+	url = https://github.com/Lavender-exe/BofCollection
+[submodule "PetitPotam"]
+	path = PetitPotam
+	url = https://github.com/topotam/PetitPotam
