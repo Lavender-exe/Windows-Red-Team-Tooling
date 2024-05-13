@@ -36,3 +36,12 @@ git submodule update
 
 - [TrustedSec](https://github.com/trustedsec)
   - https://github.com/trustedsec/CS-Remote-OPs-BOF
+
+- [Xanone](https://github.com/Xacone/)
+  - https://github.com/Xacone/BestEdrOfTheMarket
+
+- [Helixo32](https://github.com/Helixo32)
+  - https://github.com/Helixo32/CrimsonEDR/
+
+ - [Topotam](https://github.com/topotam)
+   - https://github.com/topotam/PetitPotam
