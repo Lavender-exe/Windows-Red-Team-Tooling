@@ -36,6 +36,7 @@ git submodule update
 
 - [TrustedSec](https://github.com/trustedsec)
   - https://github.com/trustedsec/CS-Remote-OPs-BOF
+  - https://github.com/trustedsec/CS-Situational-Awareness-BOF
 
 - [Xanone](https://github.com/Xacone/)
   - https://github.com/Xacone/BestEdrOfTheMarket
@@ -45,3 +46,15 @@ git submodule update
 
  - [Topotam](https://github.com/topotam)
    - https://github.com/topotam/PetitPotam
+
+- [411Hall](https://github.com/411Hall)
+  - https://github.com/411Hall/JAWS 
+
+- [Cobalt-Strike](https://github.com/Cobalt-Strike)
+  - https://github.com/Cobalt-Strike/community_kit
+
+- [bluescreenofjeff](https://github.com/bluscreenofjeff)
+  - https://github.com/bluscreenofjeff/AggressorScripts
+
+- [adrecon](https://github.com/adrecon)
+  - https://github.com/adrecon/ADRecon

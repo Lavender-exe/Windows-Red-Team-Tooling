@@ -40,3 +40,18 @@
 [submodule "PetitPotam"]
 	path = PetitPotam
 	url = https://github.com/topotam/PetitPotam
+[submodule "CS-Situational-Awareness-BOF"]
+	path = CS-Situational-Awareness-BOF
+	url = https://github.com/trustedsec/CS-Situational-Awareness-BOF
+[submodule "ADRecon"]
+	path = ADRecon
+	url = https://github.com/adrecon/ADRecon
+[submodule "JAWS"]
+	path = JAWS
+	url = https://github.com/411Hall/JAWS
+[submodule "AggressorScripts"]
+	path = AggressorScripts
+	url = https://github.com/bluscreenofjeff/AggressorScripts
+[submodule "community_kit"]
+	path = community_kit
+	url = https://github.com/Cobalt-Strike/community_kit
