@@ -55,3 +55,12 @@
 [submodule "community_kit"]
 	path = community_kit
 	url = https://github.com/Cobalt-Strike/community_kit
+[submodule "Stracciatella"]
+	path = Stracciatella
+	url = https://github.com/mgeeky/Stracciatella
+[submodule "PowerUpSQL"]
+	path = PowerUpSQL
+	url = https://github.com/NetSPI/PowerUpSQL.git
+[submodule "PowerSploit"]
+	path = PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit
